@@ -35,7 +35,7 @@ Harus tahu cara menggunakannya.
 dibutuhkan waktu lebih lama dalam membuatnya.
 Belum lagi ada bug/error dalam CSS.
 ----------------------------------------------------------------------------------------------------------------------------------------
-#Latihan CSS
+# Latihan CSS
 
 # Latihan 1
 
