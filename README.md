@@ -39,34 +39,34 @@ Belum lagi ada bug/error dalam CSS.
 
 ### Latihan 1
 
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.2.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.3.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat1.3.PNG)
 Latihan ini tentang cara membuat halaman web berubah warna setiap ukuran desktop kita di minimize atau di 
 maximize akan berubah warna tampilan desktop jika diperbesar maka biru, jika sedang maka hijau jika kecil maka merah.
 
 ### Latihan 2
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.2.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.3.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat2.3.PNG)
 tentang cara membuat sebuah grid dengan berbagai jumlah warna dan ukuran
 
 ### Latihan 3
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.2.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.3.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat3.3.PNG)
 membuat text box dengan tiga jenis bersebelahan
 
 ### Latihan 4
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.2.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.3.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat4.3.PNG)
 
 ### Latihan 5
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.2.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.3.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat5.3.PNG)
 
 ### Latihan 6
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat6.1.PNG)
-![Alt text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat6.2.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat6.1.PNG)
+![Alt Text](https://github.com/arfinadevi28/Modul-CSS-Responsive/blob/master/CSS/Lat6.2.PNG)
